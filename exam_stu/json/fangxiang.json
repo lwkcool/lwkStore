@@ -1,0 +1,17 @@
+[{
+	"id":1001,
+    "name":"webui",
+    "relname":"WebUI"
+},{
+	"id":1002,
+    "name":"java",
+    "relname":"Java"
+},{
+	"id":1003,
+    "name":"andriod",
+    "relname":"Andriod"
+},{
+	"id":1003,
+    "name":"ios",
+    "relname":"IOS"
+}]

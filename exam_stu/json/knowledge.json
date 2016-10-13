@@ -1,0 +1,17 @@
+[{
+	"id":1001,
+    "name":"html",
+    "relname":"Html"
+},{
+	"id":1002,
+    "name":"css",
+    "relname":"Css"
+},{
+	"id":1003,
+    "name":"Jquery",
+    "relname":"Jquery"
+},{
+	"id":1004,
+    "name":"javasrcipt",
+    "relname":"Javasrcipt"
+}]
